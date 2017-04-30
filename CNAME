@@ -1,4 +1,2 @@
-type: CNAME
-host: www.donyin.me
-answer: XiangfeiYin.github.io
-TTL: 300
+www.donyin.me
+
